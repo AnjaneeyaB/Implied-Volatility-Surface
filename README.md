@@ -32,6 +32,9 @@ The dataset required to generate the implied volatility surface **is not include
 
 ---
 
+## 📸 Example Screenshot  
+![App Preview](assets/preview.png) 
+
 ## ⚙️ Installation
 
 ### 1️⃣ Using Pip
