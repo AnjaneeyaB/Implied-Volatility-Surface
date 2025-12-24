@@ -46,7 +46,7 @@ pip install -r requirements.txt
 ### 2️⃣ Using Conda
 ```bash
 git clone https://github.com/AnjaneeyaB/Implied-Volatility-Surface.git
-cd Black-Scholes-Option-Pricer
+cd Implied-Volatility-Surface
 conda env create -f environment.yml
 conda activate blackScholesPricer
 ```
