@@ -48,7 +48,7 @@ pip install -r requirements.txt
 git clone https://github.com/AnjaneeyaB/Implied-Volatility-Surface.git
 cd Implied-Volatility-Surface
 conda env create -f environment.yml
-conda activate blackScholesPricer
+conda activate implied-volatility-surface
 ```
   
   📦 Dependencies
